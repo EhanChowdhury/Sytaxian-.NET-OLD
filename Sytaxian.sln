@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sytaxian", "Sytaxian\Sytaxian.csproj", "{DA9BA4A3-E01B-44CA-A2FC-D0841F1C458D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SytaxianInstaller", "SytaxianInstaller\SytaxianInstaller.csproj", "{D2FF9CAD-3081-4067-B3A7-C6058247BF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9BA4A3-E01B-44CA-A2FC-D0841F1C458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9BA4A3-E01B-44CA-A2FC-D0841F1C458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9BA4A3-E01B-44CA-A2FC-D0841F1C458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9BA4A3-E01B-44CA-A2FC-D0841F1C458D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FF9CAD-3081-4067-B3A7-C6058247BF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FF9CAD-3081-4067-B3A7-C6058247BF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FF9CAD-3081-4067-B3A7-C6058247BF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FF9CAD-3081-4067-B3A7-C6058247BF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39960AA-F493-4DFF-85C6-5EAABB64D665}
+	EndGlobalSection
+EndGlobal
